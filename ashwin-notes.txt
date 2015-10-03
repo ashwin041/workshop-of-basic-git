@@ -37,3 +37,8 @@ git checkout [branch name]
 	
 git merge [branch name]
 	merge changes on [branch name] into current branch
+
+git revert --no-edit[commit_id]
+	switched to the commit_id
+git reset --hard
+		Resets the working directory
