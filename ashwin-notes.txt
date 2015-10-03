@@ -8,6 +8,7 @@ mkdir [directory name]
 	make new folder with name[directory -name]
 touch [file.extension]
 	creates a new file with name [file.extension]
+=================================================
 git init 
 	used to create new git respositories
 git add [file]
@@ -18,3 +19,7 @@ git commit
 	commit changes to the repositories
 git log
 	used to view the git history
+=================================================
+git log --oneline 
+		shows us the commits in one line
+
