@@ -35,5 +35,3 @@ git branch
 git checkout [branch name]
 	switches from the master to the feature branch
 	
-git merge [branch name]
-	merge changes on [branch name] into current branch
