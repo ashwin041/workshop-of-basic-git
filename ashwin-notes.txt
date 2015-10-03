@@ -24,4 +24,13 @@ git log --oneline
 		shows us the commits in one line
 git diff 
 	shows us what has changed between our working directory and staging area
+==================================================
 
+Part 2
+git branch [branch name]
+		creates a new branch from the master
+git branch 
+		shows all the branches linked to the master
+git checkout [branch name]
+	switches from the master to the feature branch
+	
