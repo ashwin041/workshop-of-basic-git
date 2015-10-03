@@ -25,6 +25,7 @@ git log --oneline
 git diff 
 	shows us what has changed between our working directory and staging area
 ==================================================
+BRANCHES - PARALLEL UNIVERSE WHERE WE CAN WORK IN DIFFERENT 
 
 Part 2
 git branch [branch name]
