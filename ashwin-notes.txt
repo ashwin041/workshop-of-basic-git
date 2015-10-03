@@ -8,3 +8,13 @@ mkdir [directory name]
 	make new folder with name[directory -name]
 touch [file.extension]
 	creates a new file with name [file.extension]
+git init 
+	used to create new git respositories
+git add [file]
+	tells git to start tracking a sepcific [file]
+git status
+	tells the status of the working directory
+git commit 
+	commit changes to the repositories
+git log
+	used to view the git history
